@@ -1,6 +1,6 @@
 {
   "name": "workspace-b",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "dependencies": {
     "cowsay": "^1.4.0",
     "workspace-a": "1.0.0"
